@@ -3,7 +3,7 @@ End-to-end data analytics project analyzing customer churn using SQL, Power BI d
 
 # 📊 Customer Churn Analysis & Prediction Project
 
-**## 1. Introduction to Churn Analysis**
+## 1. Introduction to Churn Analysis
 
 In today’s highly competitive business environment, customer retention has become one of the most important factors for long-term success. Companies invest significant resources in acquiring new customers, but losing existing customers can lead to revenue loss and reduced growth.
 Customer churn refers to the percentage of customers who stop using a company’s product or service during a given time period. Understanding why customers leave and identifying early warning signs are essential for developing effective retention strategies.
