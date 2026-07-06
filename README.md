@@ -423,6 +423,16 @@ Creating interactive Power BI dashboards
 Applying machine learning for churn prediction
 Generating actionable business insights
 
+# 14. Dashboard 
+<img width="1206" height="737" alt="image" src="https://github.com/user-attachments/assets/73c25190-08a6-4325-a8af-fb7e5e96b6e0" />
+
+<img width="1278" height="746" alt="image" src="https://github.com/user-attachments/assets/b0c6ed4f-fcaf-4e73-990d-2841a9f06004" />
+
+<img width="1201" height="731" alt="image" src="https://github.com/user-attachments/assets/4fc8b1d6-168c-49dc-9d17-11ef96d7c815" />
+
+
+
+
 
 
 
