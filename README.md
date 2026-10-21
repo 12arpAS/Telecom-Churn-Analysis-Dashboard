@@ -633,9 +633,7 @@ The directory names above are illustrative. They should be adjusted to match the
 
 This project was developed as a practical learning exercise in end-to-end data analytics, business intelligence, and machine learning.
 
-The project workflow and learning reference were informed by the *End-End Churn Analysis Portfolio Project* published by Pivotalstats. The reference provides guidance on telecom churn analysis, SQL Server ETL, Power BI dashboards, and Random Forest prediction.
-
-**Reference:** [Pivotalstats — End-End Churn Analysis Portfolio Project](https://pivotalstats.com/)
+The project workflow and learning reference were informed by the *End-End Churn Analysis Portfolio Project* developed by Arpit Kumar. The reference provides guidance on telecom churn analysis, SQL Server ETL, Power BI dashboards, and Random Forest prediction.
 
 The project combines these concepts with the implementation, analysis, and reporting developed for this repository. The dataset and supporting resources should be credited to their original source where applicable.
 
